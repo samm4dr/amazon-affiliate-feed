@@ -2,6 +2,9 @@
 
 Static prices kill affiliate conversions. A "best standing desks" table that says $299 while Amazon shows $349? Your reader bounces. Live data converts — here's how to build a self-updating product feed with Apify actors.
 
+> 🤖 **Try it live** — chat with a Poe bot that generates the exact pipeline for your niche:
+> **[Amazon Product Miner](https://poe.com/amazonproductminer)** · [Lead List Generator](https://poe.com/leadlistgenerator) · [Job Postings Miner](https://poe.com/jobpostingsminer) · [SERP Rank Tracker](https://poe.com/serpranktracker) · [Social Lead Finder](https://poe.com/socialleadfinder)
+
 ## The stack
 
 - **[Apify](https://console.apify.com/sign-up?fpr=dx06p)** — `apify/amazon-crawler` handles Amazon's anti-bot wall. Free credits to start.
